@@ -20,7 +20,7 @@ ScalaTest is the most flexible and most popular testing tool in the Java/Scala e
 - [4. Launch the test](#4-launch-the-test)
 - [5. Security](#5-security)
 - [6. Semantic version](#6-semantic-version)
-- [7. Semantic version and `CHANGELOG`](#7-semantic-version-and-changelog)
+- [7. Semantic version(#7-semantic-version-and-changelog)
 
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END -->
 
@@ -84,17 +84,17 @@ $ mvn test
 ```
 
 Then 
-for Linux
-$ cd target/surefire-reports directory
-$ ls
-verify if the TestSuite.txt file exists
-$ vi TestSuite.txt
-Check the result
+* for Linux
+* $ cd target/surefire-reports directory
+* $ ls
+* verify if the TestSuite.txt file exists
+* $ vi TestSuite.txt
+* Check the result
 
-for Windows
-open the file
-target\surefire-reports\TestSuite.txt
-and check the result
+* for Windows
+* open the file
+* target\surefire-reports\TestSuite.txt
+* and check the result
 
 ## 5. Security
 
