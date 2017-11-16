@@ -20,8 +20,6 @@ ScalaTest is the most flexible and most popular testing tool in the Java/Scala e
 - [4. Launch the test](#4-launch-the-test)
 - [5. Security](#5-security)
 - [6. Semantic version](#6-semantic-version)
-- [7. Semantic version(#7-semantic-version-and-changelog)
-
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END -->
 
 
