@@ -1,0 +1,8 @@
+﻿## User-specific stuff:
+.idea/
+
+## ignoring target file
+target/
+
+## Sensitive or high-churn files:
+*.iml
