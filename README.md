@@ -53,7 +53,7 @@ The **purpose of the project** is to use the Maven Site Plugin to:
 `scalatest-maven-example` is written in Scala, which must be installed prior to use. `scalatest-maven-example` manages Scala dependencies with Maven.
 
  1. **Java<sup>:tm:</sup> EE 8 SDK:** Either
-    * [`oracle64-1.8.x1`][java-jdk-dl-url] or
+    * [`oracle64-1.8.x1`](http://www.oracle.com/technetwork/java/javase/downloads/index.html) or
     * [`openjdk:8-jdk-alpine`](https://github.com/docker-library/openjdk/blob/b4f29ba829765552239bd18f272fcdaf09eca259/8-jdk/alpine/Dockerfile)
 
  1. [**Maven**][maven-dl-url]
