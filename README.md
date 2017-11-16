@@ -83,16 +83,21 @@ $ mvn test
 
 Then 
 * for Linux
-* $ cd target/surefire-reports directory
-* $ ls
-* verify if the TestSuite.txt file exists
-* $ vi TestSuite.txt
-* Check the result
+```bash
+$ cd target/surefire-reports directory
+$ ls
+```
+verify if the TestSuite.txt file exists
+
+```bash
+$ vi TestSuite.txt
+```
+Check the result
 
 * for Windows
-* open the file
-* target\surefire-reports\TestSuite.txt
-* and check the result
+1. open the file
+2. target\surefire-reports\TestSuite.txt
+3. and check the result
 
 ## 5. Security
 
