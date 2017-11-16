@@ -54,7 +54,7 @@ The **purpose of the project** is to use the Maven Site Plugin to:
     * [`oracle64-1.8.x1`](http://www.oracle.com/technetwork/java/javase/downloads/index.html) or
     * [`openjdk:8-jdk-alpine`](https://github.com/docker-library/openjdk/blob/b4f29ba829765552239bd18f272fcdaf09eca259/8-jdk/alpine/Dockerfile)
 
- 1. [**Maven**][maven-dl-url]
+ 1. [**Maven**](https://maven.apache.org/download.cgi)
  
 
 
